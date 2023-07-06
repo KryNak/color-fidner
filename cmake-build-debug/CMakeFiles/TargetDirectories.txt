@@ -1,3 +1,0 @@
-D:/Programowanie/Programy/RobotOrScrpits/ColorFinder/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Programowanie/Programy/RobotOrScrpits/ColorFinder/cmake-build-debug/CMakeFiles/ColorFinder.dir
-D:/Programowanie/Programy/RobotOrScrpits/ColorFinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

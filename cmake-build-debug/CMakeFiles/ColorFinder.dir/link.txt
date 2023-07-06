@@ -1,3 +1,0 @@
-"D:\Programowanie\Edytory kodu\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\ColorFinder.dir/objects.a
-D:\Narzedzia\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\bin\ar.exe cr CMakeFiles\ColorFinder.dir/objects.a @CMakeFiles\ColorFinder.dir\objects1.rsp
-D:\Narzedzia\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ColorFinder.dir/objects.a -Wl,--no-whole-archive  -o ColorFinder.exe -Wl,--out-implib,libColorFinder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ColorFinder.dir\linklibs.rsp
