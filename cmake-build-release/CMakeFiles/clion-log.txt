@@ -1,5 +1,0 @@
-"D:\Programowanie\Edytory kodu\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" D:\Programowanie\Programy\RobotOrScrpits\ColorFinder
--- Found SFML 2.5.0 in D:/Narzedzia/SFML-2.5.0-windows-gcc-7.3.0-mingw-32-bit/SFML-2.5.0/lib/cmake/SFML
--- Configuring done
--- Generating done
--- Build files have been written to: D:/Programowanie/Programy/RobotOrScrpits/ColorFinder/cmake-build-release
